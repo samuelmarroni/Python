@@ -27,3 +27,5 @@ ex011 = Faça um programa  que leia a largura e altura de uma parede em metros, 
 ex012 = Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 ex013 = Faça um algortimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+ex014 = Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
