@@ -1,0 +1,6 @@
+f = input("Informe uma frase:")
+p = input("Informe a palavra:")
+print(f)
+L = f.split(" ")
+L.remove(p)
+print(L)
