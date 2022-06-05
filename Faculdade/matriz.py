@@ -1,5 +1,4 @@
 from random import randint
-from termcolor import colored
 m = [0] * 5
 for i in range(5):
     m[i] = [0] * 5
